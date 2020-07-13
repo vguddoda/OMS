@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.oms.com",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "OMS",
+    "packageName": "com.oms.com",
+    "packageFolder": "com/oms/com",
+    "serverPort": "9090",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzQ3NTQzNmFjM2RlNjRiOTQ3NTVjZmEwNTA4YTM1ZWU1MTQ4MGVmMjExYjA0YTRmY2NmNTdmMmNiNmYwYmM2Njc4Y2FhMTYyNmNmMWE2ZWFkMjBkN2E5NjYwZDVhMzhhMGEwOWIwYzIwNjFhNDFkOGIwZTUyMzc1NDY2NTQ5Mzg=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
